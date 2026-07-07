@@ -1,4 +1,4 @@
-# 
+# Regions Business Online offers online banking and payment solutions for businesses, including ACH, wire transfers, and bill pay.
 
 
 
